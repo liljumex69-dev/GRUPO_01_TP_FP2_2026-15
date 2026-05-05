@@ -99,7 +99,7 @@ python -m unittest test_negocio.py -v
 
 | Integrante | Archivos Python | Documentación | Gestión |
 |------------|----------------|---------------|---------|
-| **Anthony Chaupis Anquino* | `entidades.py`, `gestor.py` | Análisis (1.1), Objetivos (1.2) | Coordinación |
+| **Anthony Chaupis Anquino** | `entidades.py`, `gestor.py` | Análisis (1.1), Objetivos (1.2) | Coordinación |
 | **Jhonny Giraldo Suarez** | `servicios.py`, `excepciones.py`, `test_negocio.py` | Funcionalidades/HU (1.3) | Pruebas de calidad |
 | **Adrian Cuscano Escobar** | `estrategias.py` | Bibliografía, Anexos, Diagramas UML | Diseño técnico |
 | **Jhon Colca Heredia** | `main.py`, `estados.py` | Introducción, Cronograma (1.4), Flujo (2.1) | Trello, Git, Capturas |
