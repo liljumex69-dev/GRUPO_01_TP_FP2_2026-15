@@ -60,7 +60,7 @@ GRUPO_XX_TP_FP2_2026-15/
 
 ```bash
 # 1. Clonar o descargar el repositorio
-git clone https://github.com/TU_USUARIO/GRUPO_XX_TP_FP2_2026-15.git
+git clone https://github.com/liljumex69-dev/GRUPO_01_TP_FP2_2026-15
 cd GRUPO_XX_TP_FP2_2026-15/PROYECTO_PASTIPAN
 
 # 2. Ejecutar el sistema principal
